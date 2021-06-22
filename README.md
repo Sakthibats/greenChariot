@@ -1,6 +1,6 @@
 # greenchariot
 
-# Link to website: https://greenchariot-982eb.firebaseapp.com/
+## Link to website: https://greenchariot-982eb.firebaseapp.com/
 
 ## Project setup
 ```

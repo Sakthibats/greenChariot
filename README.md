@@ -3,11 +3,15 @@
 ## Link to website: https://greenchariot-982eb.firebaseapp.com/
 
 ### ScreenShots
-![image](https://user-images.githubusercontent.com/54022757/124532509-4bc04900-de43-11eb-90dd-6ad759dead3e.png)
-Dashboard
 
+Dashboard
+![image](https://user-images.githubusercontent.com/54022757/124532509-4bc04900-de43-11eb-90dd-6ad759dead3e.png)
+
+Survey
+![image](https://user-images.githubusercontent.com/54022757/124532682-9b067980-de43-11eb-95bd-e27b5f0f2f6e.png)
+
+News Articles by Tag
 ![image](https://user-images.githubusercontent.com/54022757/124532559-61ce0980-de43-11eb-9e08-45c621e72dba.png)
-News scrapped
 
 
 ## Project setup

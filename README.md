@@ -2,7 +2,7 @@
 
 ## Link to website: https://greenchariot-982eb.firebaseapp.com/
 
-###ScreenShots
+### ScreenShots
 ![image](https://user-images.githubusercontent.com/54022757/124532509-4bc04900-de43-11eb-90dd-6ad759dead3e.png)
 Dashboard
 

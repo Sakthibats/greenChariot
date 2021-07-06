@@ -13,6 +13,9 @@ Survey
 News Articles by Tag
 ![image](https://user-images.githubusercontent.com/54022757/124532559-61ce0980-de43-11eb-9e08-45c621e72dba.png)
 
+OCR and Object Detection
+![image](https://user-images.githubusercontent.com/54022757/124532930-123c0d80-de44-11eb-8da6-cc1d7d4e74c3.png)
+
 
 ## Project setup
 ```

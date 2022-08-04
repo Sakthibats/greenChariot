@@ -2,9 +2,6 @@
 
 ## Link to website: https://greenchariot-982eb.firebaseapp.com/
 #### Direct to Dashboard: https://greenchariot-982eb.firebaseapp.com/Dashboard?id=Ed9C2TtdafT2Ya2xyhlW
-#### Login credentials:
-  - username: user_test
-  - pw: abc123
 
 ### ScreenShots
 
